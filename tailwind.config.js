@@ -18,6 +18,9 @@ const config = {
 			}
 		},
 		extend: {
+			flex: {
+				2: '2 2 0%'
+			},
 			colors: {
 				border: 'hsl(var(--border) / <alpha-value>)',
 				input: 'hsl(var(--input) / <alpha-value>)',
@@ -60,7 +63,7 @@ const config = {
 			},
 			fontFamily: {
 				sans: [...fontFamily.sans],
-				satoshi: ['Satoshi', 'sans'],
+				satoshi: ['Satoshi', 'sans']
 			}
 		}
 	}
