@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1,CNN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,FOX NEWS
+http://pn.tvott.info:80/2784054827/7398533424/80998
+
+#EXTINF:-1,TODAY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,SKY NEWS
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+#EXTINF:-1,CBSN NEWS
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1,CBSN NEWS BAY AREA
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
+
+#EXTINF:-1,CBSN NEWS LOS ANGELES
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+
+#EXTINF:-1,NBC NEWS NOW
+https://nbcnewsnow-plutolive-vo.akamaized.net/r/hlslive/nbcnewsnow.m3u8?chname=nbcnewsnow&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40
+
+#EXTINF:-1,ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1,MSNBC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
+
+#EXTINF:-1,BLOOMBERG
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+#EXTINF:-1,WEATHER NATION 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,CBS SPORTS HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+
+#EXTINF:-1,CBS SPORTS NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/500
+
+#EXTINF:-1,FOX SPORTS 1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,FOX SPORTS 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+
+#EXTINF:-1,FORMULA 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+
+#EXTINF:-1,BEIN SPORTS XTRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,NBA TV
+http://bazarhd.online:80/307210113622/307210113622/80959
+
+#EXTINF:-1,MLB NETWORKS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
+
+#EXTINF:-1,ESPN 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+
+#EXTINF:-1,ESPN 2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+
+#EXTINF:-1,NBC SPORTS NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/606
+
+#EXTINF:-1,NFL NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+
+#EXTINF:-1,NFL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,FOX SPORTS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,BET
+http://bazarhd.online:80/307210113622/307210113622/81051
+
+#EXTINF:-1,BET HER
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,BRAVO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
+
+#EXTINF:-1,COMEDY CENTRAL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731
+
+#EXTINF:-1,FXX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
+
+#EXTINF:-1,HGTV
+http://bazarhd.online:80/307210113622/307210113622/81106
+
+#EXTINF:-1,HISTORY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+
+#EXTINF:-1,MTV BIGGEST POP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=870&deviceId=5d14fd1a252d35decbc4080c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,MTV BLOCK PARTY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=868&deviceId=5d3609cd6a6c78d7672f2a81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,YO! MTV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,MTV SPANKIN' NEW
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,VEVO POP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,VEVO REGGAETON & TRAP
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,VEVO R & B
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,VEVO COUNTRY
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,VEVO '70s
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,VEVO '80s
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,VEVO '90s
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,VEVO 2K
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,SYFY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+
+#EXTINF:-1,TBS
+http://bazarhd.online:80/307210113622/307210113622/81176
+
+#EXTINF:-1,TLC
+http://supersonictv.live:25461/903310/034806/22157
+
+#EXTINF:-1,TNT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+
+#EXTINF:-1,DISCOVERY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/102.m3u8
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://server.sibfungold.info:8080/ahmed/ahmed123/46885
+
+#EXTINF:-1,USA NETWORK
+http://supersonictv.live:25461/903310/034806/22129
+
+#EXTINF:-1,STORIES BY AMC
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,VH1
+http://supersonictv.live:25461/903310/034806/22178
+
+#EXTINF:-1,SHOWTIME 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f988934a507de00075d9ae7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,E! ENTERTAINMENT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516?checkedby:hlscat.com
+
+#EXTINF:-1,PARAMOUNT+ PICKS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=869&deviceId=5d14fdb8ca91eedee1633117&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,VOICE OF AMERICA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://bazarhd.online:80/307210113622/307210113622/81024
+
+#EXTINF:-1,DISNEY CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
